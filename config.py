@@ -6,9 +6,6 @@
 import os
 import logging
 from logging.handlers import RotatingFileHandler
-import pyrogram.utils
-
-pyrogram.utils.MIN_CHANNEL_ID = -1009147483647
 
 
 
